@@ -1,5 +1,5 @@
 # Car_Avoidance_Game-Team-Project-
-
+DEPLOYED LINK - https://caggame.netlify.app/
 # 🚗 Car Avoidance Game
 
 A fast-paced arcade-style game where the player must dodge incoming traffic! Built using **HTML**, **CSS**, and **JavaScript**, this browser-based game tests your reflexes as you avoid red, blue, and green cars speeding toward you.
